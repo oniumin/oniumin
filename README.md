@@ -1,16 +1,81 @@
-## Hi there 👋
+# 박선민 | Sunmin Park
 
-<!--
-**oniumin/oniumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+한국외국어대학교 바이오메디컬공학부에 재학 중이며,
+컴퓨터공학부를 이중전공하고 있습니다.
 
-Here are some ideas to get you started:
+의료영상 처리와 분석에 관심이 있으며,
+의료·생체공학에 대한 이해와 프로그래밍 역량을 함께 기르고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+현재 한국외국어대학교 지능형의료영상연구실에서
+학부연구생 인턴으로 활동하며,
+아산병원과 진행 중인 공동 연구 프로젝트에 참여하고 있습니다.
+
+## Education
+
+- **학교:** 한국외국어대학교
+- **전공:** 바이오메디컬공학부
+- **이중전공:** 컴퓨터공학부
+- **학년:** 학부 3학년
+
+## Research Interests
+
+- 의료영상 처리 및 분석
+- MRI 기반 정량 분석
+- 딥러닝 기반 의료영상 분할
+
+## Research Experience
+
+### 지능형의료영상연구실 학부연구생 인턴
+**2026.03 – 현재 | 한국외국어대학교**
+
+아산병원과 진행 중인 공동 연구 프로젝트에 참여하며,
+신생아 뇌 MRI를 활용한 의료영상 분석 연구를 경험하고 있습니다.
+
+### 다중 대비 MRI를 활용한 신생아 뇌 구조 자동 분할 및 정량 분석
+
+**Multi-Contrast MRI Framework for Quantitative Assessment of the Choroid Plexus and Associated Structures in Neonatal Brain**
+
+- T1 강조 MRI, QSM, R2*를 활용한 신생아 뇌 구조 분석 연구
+- 3D U-Net 기반 맥락총, 측뇌실, 뇌실 내 정맥 자동 분할
+- 각 구조의 부피와 정량적 MRI 지표 분석
+- 비손상군과 경도 저산소성·허혈성 손상(HII)군 비교
+
+### Academic Presentation
+
+- **2026.11:** APCMBE 2026 포스터 발표
+
+## Activities
+
+### 삼성드림클래스 대학생 멘토
+**2026.03 – 현재**
+
+매주 수요일 중학교를 방문하여 오후 3시부터 5시 30분까지
+진로 탐색과 기초 교과 학습을 위한 수업을 진행하고 있습니다.
+격주 1회, 약 30분간 온라인 멘토링도 진행하며,
+학생들의 진로 설정과 기초 학습을 지원하고 있습니다.
+
+### ISO 국제학생회 홍보부
+**2025.09 – 2026.06**
+
+교환학생의 학교생활과 한국 적응을 지원하고,
+한국 문화 체험과 교류 행사를 함께 진행했습니다.
+홍보물, 활동 자료(PPT), 영상 콘텐츠 제작과
+인스타그램 계정 관리 등 홍보 업무를 담당했습니다.
+
+### 바이오메디컬공학부 학생회 홍보차장
+**2025.03 – 2025.12**
+
+### 영화제작동아리 테이크 편집부원
+**2024.09 – 2024.12**
+
+### 바이오메디컬공학부 학생회 홍보 수습부원
+**2024.03 – 2024.12**
+
+### 봉사동아리 참동이사랑회
+**2024.03 – 2024.06**
+
+## Portfolio & Contact
+
+- **Portfolio:** [oniumin.github.io](https://oniumin.github.io/)
+- **GitHub:** [github.com/oniumin](https://github.com/oniumin)
+- **Email:** [oniumin@hufs.ac.kr](mailto:oniumin@hufs.ac.kr)
